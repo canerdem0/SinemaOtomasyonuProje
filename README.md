@@ -1,0 +1,2 @@
+# SinemaOtomasyonuProje
+Sinema Otomasyonu
